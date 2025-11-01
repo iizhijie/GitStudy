@@ -12,5 +12,9 @@ namespace GitStudy
         {
             Console.WriteLine("我正在学习Git");
         }
+        private static int Add(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
