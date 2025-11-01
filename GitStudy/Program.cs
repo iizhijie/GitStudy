@@ -24,5 +24,9 @@ namespace GitStudy
         {
             return x * y;
         }
+        private static int Div(int x, int y)
+        {
+            return x / y;
+        }
     }
 }
