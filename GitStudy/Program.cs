@@ -16,5 +16,9 @@ namespace GitStudy
         {
             return x + y;
         }
+        private static int Sub(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
