@@ -10,6 +10,7 @@ namespace GitStudy
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("我正在学习Git");
         }
     }
 }
