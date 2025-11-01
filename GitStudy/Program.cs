@@ -12,19 +12,19 @@ namespace GitStudy
         {
             Console.WriteLine("我正在学习Git");
         }
-        private static int Add(int x, int y)
+        private static double Add(double x, double y)
         {
             return x + y;
         }
-        private static int Sub(int x, int y)
+        private static double Sub(double x, double y)
         {
             return x - y;
         }
-        private static int Mul(int x, int y)
+        private static double Mul(double x, double y)
         {
             return x * y;
         }
-        private static int Div(int x, int y)
+        private static double Div(double x, double y)
         {
             return x / y;
         }
